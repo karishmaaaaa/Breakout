@@ -18,9 +18,9 @@ body {
   }
   
   /* Neon effect for paddle, ball, and bricks */
-  #gameCanvas {
-    box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc, 0 0 30px #00ffcc;
-  }
+  /* #gameCanvas {
+    box-shadow: 0 0 10px #5e109a, 0 0 20px #5e109a, 0 0 30px #5e109a;
+  } */
   
   canvas::before {
     content: "";
